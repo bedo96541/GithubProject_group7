@@ -3,5 +3,6 @@ public class hello {
         System.out.println("hello group7");
 
         // added by civan !!!
+        //adding lines by kadir!!
     }
 }
