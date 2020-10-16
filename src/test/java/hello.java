@@ -4,5 +4,6 @@ public class hello {
 
         // added by civan !!!
         //added second line for conflict
+        //adding lines by kadir!!
     }
 }
